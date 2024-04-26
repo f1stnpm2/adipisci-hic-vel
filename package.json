@@ -1,18 +1,65 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/adipisci-hic-vel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@diahkomalasarinpm/odio-facilis-beatae": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "@f1stnpm2/repudiandae-numquam-exercitationem": "^1.0.0",
+    "@wemnyelezxnpm/neque-eligendi-dolorem": "^1.0.0"
+  },
+  "keywords": [
+    "sharedarraybuffer",
+    "gradients css",
+    "fetch",
+    "speed",
+    "find-up",
+    "JSON",
+    "ES",
+    "recursive",
+    "hash",
+    "256",
+    "react",
+    "fsevents",
+    "zero",
+    "nodejs",
+    "Uint8Array",
+    "irq",
+    "slot",
+    "stream",
+    "ajax",
+    "rapid",
+    "watchFile",
+    "json-schema-validator",
+    "findLastIndex",
+    "mkdirp",
+    "style",
+    "serialization",
+    "mocha",
+    "ECMAScript 2016",
+    "cache",
+    "omit",
+    "utility",
+    "ECMAScript 3",
+    "ReactiveExtensions"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/adipisci-hic-vel.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/adipisci-hic-vel/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/adipisci-hic-vel/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
